@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 I am Yujia Qiao, a senior student at HUST. I usually use the username Rapiz. Sometimes *rapiz, rapiz1, Rapiz1.*
 - 🏆 I used to participate in algorithm contests.[Got a Gold Medal🥇 and a Brozne Medal🥉 in ACM/ICPC](https://icpc.global/ICPCID/6TMTTSRK8SRZ)  [![Codeforces Rating](https://cfrating.ihcr.top/?user=rapiz&style=flat-square)](https://codeforces.com/profile/rapiz) 
 - 🔭 I’m currently working on open-source software. Previously completed [Google Summer of Code 2020](https://summerofcode.withgoogle.com/archive/2020/projects/6016402642698240/). I developed several container libraries for [the Chapel programming language](https://chapel-lang.org/).
-- 🌱 I’m currently learning about the cloud native & computer architeture.
+- 🌱 I’m currently learning about the cloud native & computer architeture & rust.
 - 👯 I’m looking to collaborate on lightweight virutalization like kata, firecracker, even KVM and qemu.
 - 🤔 I’m planning for something big.
 - ⚡ Fun fact: I developed [a fun game receiving ~1k stars](https://github.com/Rapiz1/DungeonRush). Don't you try it out?
