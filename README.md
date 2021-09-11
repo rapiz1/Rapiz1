@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about the cloud native & computer architeture & rust.
 - 👯 I’m looking to collaborate on lightweight virutalization like kata, firecracker, even KVM and qemu.
 - 🤔 I’m planning for something big.
-- ⚡ Fun fact: The course project I did when I'm university freshman, is [a game receiving ~1k stars](https://github.com/Rapiz1/DungeonRush). Maybe you can try it out.
+- ⚡ Fun fact: The C programming course project I did when I'm university freshman, is [a game receiving ~1k stars](https://github.com/Rapiz1/DungeonRush). Maybe you can try it out.
 
 - 📫 How to reach me: [contact@rapiz.me](mailto://contact@rapiz.me)
 
