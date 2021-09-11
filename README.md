@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 I am Yujia Qiao, a college sophomore at HUST. I usually use the username Rapiz. Sometimes *rapiz, rapiz1, Rapiz1.*
+- 😄 I am Yujia Qiao, a senior student at HUST. I usually use the username Rapiz. Sometimes *rapiz, rapiz1, Rapiz1.*
 - 🏆 I used to participate in algorithm contests.[Got a Gold Medal🥇 and a Brozne Medal🥉 in ACM/ICPC](https://icpc.global/ICPCID/6TMTTSRK8SRZ)  [![Codeforces Rating](https://cfrating.ihcr.top/?user=rapiz&style=flat-square)](https://codeforces.com/profile/rapiz) 
 - 🔭 I’m currently working on open-source software. Previously completed [Google Summer of Code 2020](https://summerofcode.withgoogle.com/archive/2020/projects/6016402642698240/). I developed several container libraries for [the Chapel programming language](https://chapel-lang.org/).
 - 🌱 I’m currently learning about the cloud native.
