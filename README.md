@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [contact@rapiz.me](mailto://contact@rapiz.me)
 
 
-[![Rapiz1's github stats](https://github-readme-stats.vercel.app/api?username=Rapiz1&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Rapiz1's github stats](https://github-readme-stats.vercel.app/api?username=rapiz1&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 [![Rapiz1's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rapiz1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
