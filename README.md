@@ -15,13 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 I am Yujia Qiao, a third-year student at HUST. I usually use the username Rapiz. Sometimes *rapiz, rapiz1, Rapiz1.*
-- 🏆 I used to participate in algorithm contests. [Got a Gold Medal🥇 and a Bronze Medal🥉 in ACM/ICPC](https://icpc.global/ICPCID/6TMTTSRK8SRZ)  [![Codeforces Rating](https://cfrating.ihcr.top/?user=rapiz&style=flat-square)](https://codeforces.com/profile/rapiz) 
-- 🔭 I’m currently working on open-source software. Previously completed [Google Summer of Code 2020](https://summerofcode.withgoogle.com/archive/2020/projects/6016402642698240/). I developed several container libraries for [the Chapel programming language](https://chapel-lang.org/).
-- ⚡ Fun fact: The C programming course project I did when I'm university freshman, is [a game receiving ~1k stars](https://github.com/Rapiz1/DungeonRush). Maybe you can try it out.
-- 👯 I’m looking to collaborate on Cloud Native, Blockchain and Rust projects.
-- 📫 How to reach me: [contact@rapiz.me](mailto://contact@rapiz.me)
+👋 Hey, I'm a third-year univeristy student majoring software engineering.
+🏆 [Got a 🥇 and a 🥉 in ACM/ICPC](https://icpc.global/ICPCID/6TMTTSRK8SRZ).
 
+
+Some of my work:
+- [catproc](https://github.com/rapiz1/catp/): a little CLI tool.
+- [rathole](https://github.com/rapiz1/rathole): a reverse proxy for NAT traversal.
+- [DungeonRush](https://github.com/rapiz1/dungeonrush): a fun game.
+- [GSoC 2020](https://summerofcode.withgoogle.com/archive/2020/projects/6016402642698240/): I developed several container libraries for [the Chapel programming language](https://chapel-lang.org/).
+
+📫 How to reach me: [contact@rapiz.me](mailto://contact@rapiz.me)
 
 [![Rapiz1's github stats](https://github-readme-stats-lnncdg0rh-francois-rozet.vercel.app/api?username=rapiz1&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats/pull/1186)
 
