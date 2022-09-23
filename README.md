@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hey, I'm an undergraduate majoring software engineering. Previously worked as intern in ByteDance, Alibaba Cloud, and Jump Trading. My interests includes networking, system programming and so on.
+👋 Hey, I'm an undergraduate majoring software engineering. Previously worked as intern in ByteDance, Alibaba Cloud, and Jump Trading. My interests include networking, system programming and so on.
+
 🏆 [Got a 🥇 and a 🥉 in ACM/ICPC](https://icpc.global/ICPCID/6TMTTSRK8SRZ).
 
 
