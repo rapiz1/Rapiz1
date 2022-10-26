@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My interests include networking, system programming and so on.
+Undergraduate. My interests include networking, system programming and so on.
 
 Some of my work:
 - [catproc](https://github.com/rapiz1/catp/): a tool to inspect the output of a running process.
 - [rathole](https://github.com/rapiz1/rathole): a reverse proxy for NAT traversal.
 - [GSoC 2020](https://summerofcode.withgoogle.com/archive/2020/projects/6016402642698240/): I developed several container libraries for [the Chapel programming language](https://chapel-lang.org/).
-- [DungeonRush](https://github.com/rapiz1/dungeonrush): a fun game made when I was a freshman.
+- [DungeonRush](https://github.com/rapiz1/dungeonrush): a game in pure C.
 
 📫 How to reach me: [contact@rapiz.me](mailto://contact@rapiz.me)
 
