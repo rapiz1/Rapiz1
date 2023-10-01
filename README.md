@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Undergraduate. My interests include networking, system programming and so on.
+My open-source work was mainly done when I was a student. Now I'm an SDE in an HFT firm, so not sure how much leisure I have now to follow up on all the things. Sorry for that!
 
 Some of my work:
 - [catproc](https://github.com/rapiz1/catp/): a tool to inspect the output of a running process.
