@@ -25,7 +25,7 @@ Some of my work:
 
 📫 How to reach me: [contact@rapiz.me](mailto://contact@rapiz.me)
 
-[![Rapiz1's github stats](https://github-readme-stats-lnncdg0rh-francois-rozet.vercel.app/api?username=rapiz1&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats/pull/1186)
+[![Rapiz1's github stats](https://github-readme-stats.vercel.app/api?username=rapiz1&show_icons=true&theme=transparent&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 [![Rapiz1's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rapiz1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
